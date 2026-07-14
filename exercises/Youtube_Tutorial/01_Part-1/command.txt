@@ -1,1 +1,0 @@
-sudo -u postgres psql -d postgres -f ./01_first_database.sql

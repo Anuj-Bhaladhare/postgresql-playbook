@@ -1,1 +1,0 @@
-# SQL Learning Repository
